@@ -1,13 +1,12 @@
 /***********************************************************************
 * Program:
-*    Final Project - Client
-*    Brother Jones, CS 460
+*    Multithreaded Chat Room
 * Author:
 *    Paden Jones
 * Summary:
 *    Client half of a messaging application.
 * Instructions:
-*    Compile using Pthreads. Pass the port number and IP address
+*    Compile using Pthreads. Pass port number and IP address
 *    of server machine as arguments.
 ************************************************************************/
 #include <iostream>
